@@ -1,4 +1,4 @@
-<html><head><style type="text/css" id="dcoder_stylesheet">/* Css reset */  
+html><head><style type="text/css" id="dcoder_stylesheet">/* Css reset */  
  * {  
    margin: 0;  
    padding: 0;  
